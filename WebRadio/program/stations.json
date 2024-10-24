@@ -1,0 +1,65 @@
+[
+    {
+        "Radio Name": "Radio 538",
+        "Radio Logo picture": "https://seeklogo.com/images/R/Radio_538-logo-F9F7DC6EEA-seeklogo.com.png",
+        "Radio Description": "Radio 538 is a popular Dutch radio station, playing the best of pop, dance, and contemporary hits.",
+        "Radio Country": "Netherlands",
+        "Radio URL for stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3"
+    },
+    {
+        "Radio Name": "FIP",
+        "Radio Logo picture": "https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png",
+        "Radio Description": "FIP offers an eclectic mix of genres including jazz, classical, world music, film scores, and more.",
+        "Radio Country": "France",
+        "Radio URL for stream": "http://icecast.radiofrance.fr/fip-hifi.aac"
+    },
+    {
+        "Radio Name": "Hot 108 Jamz",
+        "Radio Logo picture": "https://hot108.com/content/wp-content/themes/hot108/images/logo.png",
+        "Radio Description": "Hot 108 Jamz is the world's most popular internet radio station for hip hop and R&B.",
+        "Radio Country": "United States",
+        "Radio URL for stream": "http://sc.hot108.com:4000/"
+    },
+    {
+        "Radio Name": "SomaFM: Groove Salad",
+        "Radio Logo picture": "https://somafm.com/img3/groovesalad-400.jpg",
+        "Radio Description": "Groove Salad is a perfect blend of downtempo chillout music, making it ideal for background ambiance.",
+        "Radio Country": "United States",
+        "Radio URL for stream": "http://ice2.somafm.com/groovesalad-128-mp3"
+    },
+    {
+        "Radio Name": "Radio Swiss Jazz",
+        "Radio Logo picture": "https://iconape.com/wp-content/png_logo_vector/radio-swiss-classic-swiss-pop-swiss-jazz-logo.png",
+        "Radio Description": "Radio Swiss Jazz offers a mix of classic jazz, swing, and blues with a focus on the American and Swiss jazz scenes.",
+        "Radio Country": "Switzerland",
+        "Radio URL for stream": "http://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+        "Radio Name": "Radio Paradise",
+        "Radio Logo picture": "https://cdn.radioparadise.com/rp_logo_large.png",
+        "Radio Description": "Radio Paradise is an eclectic commercial-free blend of modern and classic rock, world music, electronica, and more.",
+        "Radio Country": "United States",
+        "Radio URL for stream": "http://stream.radioparadise.com/aac-320"
+    },
+    {
+        "Radio Name": "KEXP",
+        "Radio Logo picture": "https://upload.wikimedia.org/wikipedia/commons/2/2c/KEXP_logo.png",
+        "Radio Description": "KEXP is a non-profit arts organization serving music lovers, and its radio station plays diverse music genres.",
+        "Radio Country": "United States",
+        "Radio URL for stream": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
+    },
+    {
+        "Radio Name": "Triple J",
+        "Radio Logo picture": "https://www.abc.net.au/cm/rimage/11981246-3x2-xlarge.jpg?v=3",
+        "Radio Description": "Triple J is Australia's youth-focused radio station that plays the latest and greatest in alternative music.",
+        "Radio Country": "Australia",
+        "Radio URL for stream": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/"
+    },
+    {
+        "Radio Name": "NPR News",
+        "Radio Logo picture": "https://media.npr.org/images/npr-social-card.jpg",
+        "Radio Description": "NPR News provides the latest news and updates from around the world with in-depth analysis.",
+        "Radio Country": "United States",
+        "Radio URL for stream": "https://npr-ice.streamguys1.com/live.mp3"
+    }
+]

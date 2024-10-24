@@ -1,0 +1,2 @@
+Folder: /mnt/mmc/ports/WebRadio
+Script: /mnt/mmc/MUOS/application/WebRadio.sh
